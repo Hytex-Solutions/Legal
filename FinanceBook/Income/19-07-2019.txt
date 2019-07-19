@@ -1,0 +1,1 @@
++10000$,TenThousandsUSDollars,USD,PRIORBANK_MINSK_BY;
