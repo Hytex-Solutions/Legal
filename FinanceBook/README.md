@@ -1,2 +1,2 @@
-# Finance Book of "Hytex Solutions Limited" (LLC) / Minsk / BY
+# Finance Book of "Hytex Solutions Limited" (LLC) @ Minsk/BY
 
