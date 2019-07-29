@@ -1,0 +1,33 @@
+
+V_Init: allocate screens.
+M_LoadDefaults: Load system defaults.
+Z_Init: Init zone memory allocation daemon. 
+DPMI memory: 0x1da0000, 0x800000 allocated for zone
+W_Init: Init WADfiles.
+	adding doom2.wad
+	commercial version.
+***************************************************************************
+              BEST MULTIMEDIA CLUB            
+                   BEST MULTIMEDIA CLUB  (044) 274-69-02         
+***************************************************************************
+M_Init: Init miscellaneous info.
+R_Init: Init DOOM refresh daemon - [                                      ]......................................
+P_Init: Init Playloop state.
+I_Init: Setting up machine state.
+I_StartupDPMI
+I_StartupMouse
+Mouse: detected
+CyberMan: Wrong mouse driver - no SWIFT support (AX=53c1).
+I_StartupJoystick
+I_StartupKeyboard
+I_StartupSound
+I_StartupTimer()
+Dude.  The Adlib isn't responding.
+  calling DMX_Init
+D_CheckNetGame: Checking network game status.
+startskill 2  deathmatch: 0  startmap: 1  startepisode: 1
+player 1 of 1 (1 nodes)
+S_Init: Setting up sound.
+HU_Init: Setting up heads up display.
+ST_Init: Init status bar.
+
