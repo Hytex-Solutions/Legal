@@ -1,0 +1,13 @@
+04/01 10:25:52 Returned to T-Mail with errorlevel 0
+04/01 10:25:52 Gen. msg -> Alex_Blagovechensky (Poll)
+04/01 10:28:51 Calling Alex_Blagovechensky, ATDP2891170, CONNECT 14400/ARQ/V32/LAPM/V42BIS: 27 sec
+04/01 10:29:18 ¦ Outgoing call: CONNECT 14400/ARQ/V32/LAPM/V42BIS
+04/01 10:29:37 2:450/102@fidonet, using ifcico/2.11/Thu Oct 26 14:23:54 2000
+04/01 10:29:37 Remote date/time is 04 Jan 1 10:29
+04/01 10:29:37 Flags: CM,XX,U,Z19
+04/01 10:29:37 SysOp: Alex Blagoveschensky, 375-17-2891170
+04/01 10:29:37 System: X-Files System, Minsk, Belarus
+04/01 10:29:37 Password protected session
+04/01 10:29:37 AKA 2:45/128@fidonet
+04/01 10:29:37 Handshake: EMSI, protocol: ZedZap, chat: not enabled
+04/01 10:29:45 ¦ 2:450/102, bytes 0/0, time 0:00:26

@@ -1,0 +1,5 @@
+;A Region Nodelist / April 2, 2016
+;
+Region,45,Belarus,Minsk,Siarhei_Vauchok,375-17-2101664,9600,MO,ZYX,V34
+1151,Apollo_BBS,Minsk,Siarhei_Vauchok,375-17-2101664,9600,CM,ZYX,V34
+
