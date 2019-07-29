@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu_settings>
+  <!--gotomenu and shortcutbar SHARK ALL MENUSETTINGS-->
+  <version major="1" minor="7" />
+  <mainmenuview value="labelgrid" />
+  <nativelinks>
+    <nlink id="1">localapp://jam/launch?midlet-vendor=Yahoo!,%20Inc.;midlet-name=Yahoo!%20Go;Nokia-Menu-Startup=messaging</nlink>
+    <nlink id="2">localapp://jam/launch?midlet-vendor=Yahoo!,%20Inc.;midlet-name=Yahoo!%20Go;Nokia-Menu-Startup=media</nlink>
+    <nlink id="3">localapp://jam/launch?midlet-vendor=Yahoo!,%20Inc.;midlet-name=Yahoo!%20Go</nlink>
+    <nlink id="4">localapp://jam/launch?midlet-vendor=Nokia;midlet-name=City%20Bloxx</nlink>
+    <nlink id="5">localapp://jam/launch?midlet-vendor=Nokia;midlet-name=Download!</nlink>
+    <nlink id="6">localapp://jam/launch?midlet-vendor=Nokia;midlet-name=Search</nlink>
+    <nlink id="7">localapp://jam/launch?midlet-vendor=Opera%20Software%20ASA;midlet-name=Opera%20Mini</nlink>
+  </nativelinks>
+  <mainmenuview value="labelgrid" />
+  <idle_shortcuts>
+    <left_softkey name="GotoMenuLevel" />
+    <right_softkey name="MenuUCSK:Names" />
+    <scroll_down name="MenuUCSK:Names" />
+    <scroll_right name="MenuUCSK:Calendar" />
+    <scroll_up name="MenuUCSK:Camera" />
+    <scroll_left name="MenuUCSK:WriteMessage" />
+  </idle_shortcuts>
+  <!--LSK / RSK shortcuts /-->
+  <gotomenu>
+    <menuitem name="MenuUCSK:LockKeypad" />
+    <menuitem name="MenuUCSK:ProfileSelection" />
+    <menuitem name="MenuUCSK:AlarmClock" />
+    <menuitem name="MenuUCSK:Camera" />
+    <menuitem name="MenuUCSK:VideoRecorder" />
+    <menuitem name="MenuUCSK:bt_quick_menu" />
+    <menuitem name="MenuUCSK:Calendar" />
+    <menuitem nlink="6" />
+    <menuitem nlink="3" />
+    <menuitem name="MenuUCSK:JavaCalc" />
+    <menuitem name="MenuUCSK:FlightMode" />
+  </gotomenu>
+  <shortcutbar>
+    <menuitem name="MenuUCSK:bt_quick_menu" />
+    <menuitem name="MenuUCSK:WriteMessage" />
+    <menuitem name="MenuUCSK:Camera" />
+    <menuitem nlink="3" />
+    <menuitem name="MenuUCSK:AlarmClock" />
+    <menuitem name="MenuUCSK:MPlayer" />
+    <menuitem name="MenuUCSK:Radio" />
+    <menuitem nlink="6" />
+  </shortcutbar>
+  <user_note>
+    <!--   <menuitem nlink="6" /> -->
+  </user_note>
+  <mainmenu>
+    <menuitem name="CmccServiceMenu" />
+    <menuitem name="CmccCustomerServiceMenu" />
+    <menuitem name="MusicChannelMenu" />
+    <menuitem name="MessagesMenu" />
+    <menuitem name="MainPB" />
+    <menuitem name="CallListsMenu" />
+    <menuitem name="SettingsMenu" />
+    <menuitem name="MyFiles" />
+    <menuitem name="OperatorMenu" />
+    <menuitem name="GalleryItem" />
+    <menuitem name="MediaMenu" />
+    <menuitem name="PushToTalkMenu" />
+    <menuitem name="OrganizerMenu" />
+    <menuitem name="MainWVIMMenu" />
+    <menuitem name="ApplicationsMenu" />
+    <menuitem name="AMSMsgMenu" />
+    <menuitem name="BrowserMenu" />
+    <menuitem name="SIMATKMenu" />
+    <menuitem name="FieldTestMenu" />
+  </mainmenu>
+  <firstsubmenu>
+    <submenu name="MessagesMenu">
+      <menuitem name="MM:CreateMessageMenu" />
+      <menuitem name="MM:Inbox" />
+      <menuitem name="MM:Mailbox_1" />
+      <menuitem name="MM:Mailbox_2" />
+      <menuitem name="MM:Mailbox_3" />
+      <menuitem name="MM:Mailbox_4" />
+      <menuitem name="MM:Mailbox_5" />
+      <menuitem nlink="1" />
+    </submenu>
+    <submenu name="MediaMenu">
+      <menuitem name="MM:CameraMenu" />
+      <menuitem name="MM:CameraVideoMenu" />
+      <menuitem name="MM:MusicPlayer" />
+      <menuitem nlink="2" />
+    </submenu>
+  </firstsubmenu>
+</menu_settings>

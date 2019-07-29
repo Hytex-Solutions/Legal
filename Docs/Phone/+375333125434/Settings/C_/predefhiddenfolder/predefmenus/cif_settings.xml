@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cif_settings>
+  <version major="1" />
+  <content item="active_idle">
+    <scroll>NONE</scroll>
+    <flags>LOCKED</flags>
+    <activation>up</activation>
+    <activation>down</activation>
+    <select>NONE</select>
+  </content>
+  <content item="OHS">
+    <scroll>NONE</scroll>
+    <flags>LOCKED</flags>
+    <activation>up</activation>
+    <activation>down</activation>
+    <select>NONE</select>
+  </content>
+  <active_item>active_idle</active_item>
+</cif_settings>

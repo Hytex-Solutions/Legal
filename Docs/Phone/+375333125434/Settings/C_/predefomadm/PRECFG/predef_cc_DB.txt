@@ -1,0 +1,6 @@
+000_000 NokiaEmpty cc0000_empty.wbxml
+234_010 O2 cc01_ctv_uk.wbxml
+234_033 Orange cc02_ctv_uk.wbxml
+234_030 T-Mobile cc03_ctv_uk.wbxml
+234_030 Virgin cc04_ctv_uk.wbxml
+234_015 Vodafone cc05_ctv_uk.wbxml
